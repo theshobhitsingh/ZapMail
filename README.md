@@ -1,6 +1,6 @@
 # ZapMail
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is your Email Service.
 
 Currently, two official plugins are available:
 
