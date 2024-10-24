@@ -102,5 +102,7 @@ We welcome contributions! If you'd like to contribute to this project, please fo
 3. Commit your changes:
    ```bash
    git commit -m 'Add some feature'
+4. Push to the branch:
+   ```bash
+   git push origin feature/YourFeature
 
-   
