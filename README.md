@@ -13,17 +13,7 @@ ZapMail is a modern web application that mimics an email client. It allows users
 - [User Experience](#user-experience)
 - [Contributing](#contributing)
 - [License](#license)
-
-## 🌟Features
-
-- **User Authentication** 🔒: Secure sign-in and sign-out using Firebase Authentication.
-- **Email Management** 📬: Users can view, search, and filter emails across different categories (Primary, Promotions, Social).
-- **Real-Time Updates** ⚡: Utilizes Firestore to ensure users receive real-time updates on their emails.
-- **Responsive Design** 📱: Optimized for both desktop and mobile devices.
-- **Dynamic Search** 🔍: Instant search functionality to find emails by subject, sender, or content.
-- **User Profile Management** 👤: Users can manage their profiles and log out easily.
-- **Dropdown Menu** 📋: User-friendly dropdown for profile options.
-
+- 
 ## Features
 
 ### User Authentication
