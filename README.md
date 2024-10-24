@@ -158,4 +158,3 @@ We welcome contributions! If you'd like to contribute to this project, please fo
    ```bash
    git checkout -b feature/YourFeature
 `
-
