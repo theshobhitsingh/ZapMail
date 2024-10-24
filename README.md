@@ -99,4 +99,8 @@ We welcome contributions! If you'd like to contribute to this project, please fo
 2. Create a new branch for your feature:
    ```bash
    git checkout -b feature/YourFeature
+3. Commit your changes:
+   ```bash
+   git commit -m 'Add some feature'
 
+   
