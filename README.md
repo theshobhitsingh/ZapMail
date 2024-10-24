@@ -1,10 +1,10 @@
-# ZapMail : **Your Email Service**
+# 📧ZapMail : **Your Email Service**
 
 ## Overview
 
 ZapMail is a modern web application that mimics an email client. It allows users to manage their emails effectively. The application features a clean user interface, real-time updates, and robust functionalities that enhance user experience.
 
-## Table of Contents
+## 🪶Table of Contents
 
 - [Features](#features)
 - [Technologies Used](#technologies-used)
@@ -14,7 +14,7 @@ ZapMail is a modern web application that mimics an email client. It allows users
 - [Contributing](#contributing)
 - [License](#license)
 
-## Features
+## 🌟Features
 
 - **User Authentication** 🔒: Secure sign-in and sign-out using Firebase Authentication.
 - **Email Management** 📬: Users can view, search, and filter emails across different categories (Primary, Promotions, Social).
@@ -24,7 +24,7 @@ ZapMail is a modern web application that mimics an email client. It allows users
 - **User Profile Management** 👤: Users can manage their profiles and log out easily.
 - **Dropdown Menu** 📋: User-friendly dropdown for profile options.
 
-## Technologies Used
+## ⚙️Technologies Used
 
 - **Frontend**:
   - React: For building the user interface.
@@ -54,7 +54,7 @@ ZapMail is a modern web application that mimics an email client. It allows users
    - Replace the Firebase configuration in the `firebase.js` file with your project credentials.
 4. **Run the application** 🚀:
    ```bash
-   npm start
+   npm run dev
 
 ## Usage
 
@@ -71,7 +71,7 @@ The application is designed with user experience in mind. Key aspects include:
 
 ## Contributing
 
-We welcome contributions! If you'd like to contribute to this project, please fork the repository and submit a pull request with your changes.
+I welcome contributions! If you'd like to contribute to this project, please fork the repository and submit a pull request with your changes.
 
 1. Fork the repository. 🍴
 2. Create a new branch for your feature:
@@ -85,6 +85,5 @@ We welcome contributions! If you'd like to contribute to this project, please fo
    git push origin feature/YourFeature
 5. Open a pull request. 🔍
 
-## License
-
-This project is licensed under the MIT License - see the `LICENSE` file for details. 📄
+## Coder
+This project is coded by *Shobhit Singh*
