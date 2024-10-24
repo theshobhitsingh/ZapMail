@@ -93,7 +93,7 @@ ZapMail is designed with user experience in mind. Key aspects include:
 
 ## Contributing 🤝
 
-We welcome contributions! If you'd like to contribute to this project, please fork the repository and submit a pull request with your changes.
+I welcome contributions! If you'd like to contribute to this project, please fork the repository and submit a pull request with your changes.
 
 1. Fork the repository.
 2. Create a new branch for your feature:
@@ -106,7 +106,6 @@ We welcome contributions! If you'd like to contribute to this project, please fo
    ```bash
    git push origin feature/YourFeature
 5. Open a pull request.
-
 
 ## Coder
 This project is coded and crafted by ***Shobhit Singh**
