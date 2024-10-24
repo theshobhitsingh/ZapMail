@@ -105,4 +105,4 @@ We welcome contributions! If you'd like to contribute to this project, please fo
 4. Push to the branch:
    ```bash
    git push origin feature/YourFeature
-
+5. Open a pull request.
