@@ -14,7 +14,7 @@ ZapMail is a modern web application that mimics an email client. It allows users
 - [Contributing](#contributing)
 - [License](#license)
 - 
-## Features
+## 🌟Features
 
 ### User Authentication
 - **Login Screen**: Users can log in using their credentials.
@@ -33,6 +33,11 @@ ZapMail is a modern web application that mimics an email client. It allows users
 ### Real-Time Updates
 - **Real-Time Email Updates**: The application updates the inbox in real-time, so users can see new emails without refreshing the page.
 
+### Dynamic Search
+- **Dynamic Search** 🔍: Instant search functionality to find emails by subject, sender, or content.
+
+### User Profile Management
+- **User Profile Management** 👤: Users can manage their profiles and log out easily.
 
 ## ⚙️Technologies Used
 
@@ -79,7 +84,7 @@ The application is designed with user experience in mind. Key aspects include:
 - **Real-Time Interaction** ⚡: Users can see their emails updating in real-time, enhancing the overall experience.
 - **Visual Feedback** 👀: Hover effects and animations provide feedback for user interactions, making the application feel more interactive.
 
-## Contributing
+## 🤝Contributing
 
 I welcome contributions! If you'd like to contribute to this project, please fork the repository and submit a pull request with your changes.
 
