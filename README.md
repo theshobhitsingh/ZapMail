@@ -2,7 +2,7 @@
 
 ## Overview
 
-ZapMail is a modern web application that mimics an email client. It allows users to manage their emails effectively. The application features a clean user interface, real-time updates, and robust functionalities that enhance user experience.
+ZapMail is a modern web application that mimics an email client. It allows users to manage their Emails effectively. The application features a clean user interface, real-time updates, and robust functionalities that enhance user experience.
 
 ## Table of Contents
 
