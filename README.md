@@ -1,4 +1,4 @@
-# ZapMail ✉️
+# ZapMail ✉️ : ***Your Email Service***
 
 ## Overview
 ZapMail is a modern email management application designed to help users efficiently manage their emails. With a clean user interface and robust features, ZapMail allows you to view, search, compose, and categorize your emails seamlessly, all while providing real-time updates.
@@ -106,3 +106,7 @@ We welcome contributions! If you'd like to contribute to this project, please fo
    ```bash
    git push origin feature/YourFeature
 5. Open a pull request.
+
+
+## Coder
+This project is coded and crafted by ***Shobhit Singh**
