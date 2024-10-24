@@ -71,7 +71,7 @@ The application is designed with user experience in mind. Key aspects include:
 
 ## Contributing
 
-We welcome contributions! If you'd like to contribute to this project, please fork the repository and submit a pull request with your changes.
+I welcome contributions! If you'd like to contribute to this project, please fork the repository and submit a pull request with your changes.
 
 1. Fork the repository.
 2. Create a new branch for your feature:
@@ -85,6 +85,5 @@ We welcome contributions! If you'd like to contribute to this project, please fo
    git push origin feature/YourFeature
 5. Open a pull request.
 
-## License
-
-This project is licensed under the MIT License - see the `LICENSE` file for details.
+## Coder
+ This project is Programmed by me *Shobhit Singh*
