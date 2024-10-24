@@ -56,7 +56,7 @@ function Inbox() {
                               mailType.map((item, index) => {
                                    return (<button
                                         key={index}
-                                        className={`flex items-center gap-5 p-4 ${mailTypeSelected === index ? 'border-b-4 border-blue-400 text-purple-500' : 'border-b-4 border-b-transparent'}  w-52 hover:bg-gray-100`}
+                                        className={`flex items-center gap-5 p-4 ${mailTypeSelected === index ? 'border-b-4 border-blue-400 text-blue-900' : 'border-b-4 border-b-transparent'}  w-52 hover:bg-gray-100`}
                                         onClick={() => { setmailTypeSelected(index) }}
                                    >
                                         {item.icon}
