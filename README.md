@@ -68,3 +68,35 @@ ZapMail is a modern email management application designed to help users efficien
 Create a Firebase project in the Firebase console.
 Enable Authentication and Firestore.
 Replace the Firebase configuration in the firebase.js file with your project credentials.
+
+## Usage 📖
+
+1. **Start the Application**: Launch the app to see the login screen.
+2. **Log In**: Enter your credentials to access your inbox.
+3. **Navigate the Sidebar**: Use the sidebar to switch between different email categories.
+4. **Search Emails**: Type in the search bar to find specific emails quickly.
+5. **Compose New Email**: Click the "Compose" button to start writing a new email.
+6. **View Email Details**: Click on an email to view its full details.
+7. **Delete Emails**: Select the emails you want to delete and confirm the deletion.
+8. **Enjoy Real-Time Interaction**: Experience real-time updates as new emails arrive.
+
+---
+
+## User Experience 🌟
+
+ZapMail is designed with user experience in mind. Key aspects include:
+- **Intuitive Navigation**: A simple and clean layout for easy navigation.
+- **Responsive Design**: Adapts to different screen sizes for a seamless experience on desktop and mobile devices.
+- **Visual Feedback**: Hover effects and animations provide interactive feedback.
+
+---
+
+## Contributing 🤝
+
+We welcome contributions! If you'd like to contribute to this project, please fork the repository and submit a pull request with your changes.
+
+1. Fork the repository.
+2. Create a new branch for your feature:
+   ```bash
+   git checkout -b feature/YourFeature
+
