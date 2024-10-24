@@ -59,3 +59,12 @@ ZapMail is a modern email management application designed to help users efficien
    ```bash
    git clone https://github.com/yourusername/zapmail.git
    cd zapmail
+2. Install dependencies:
+   ```bash
+   npm install
+
+3. Set up Firebase:
+
+Create a Firebase project in the Firebase console.
+Enable Authentication and Firestore.
+Replace the Firebase configuration in the firebase.js file with your project credentials.
