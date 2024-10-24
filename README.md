@@ -33,7 +33,7 @@ ZapMail is a modern web application that mimics an email client. It allows users
 
 - **Backend**:
   - Firebase: For authentication and Firestore as the database.
-
+    
 - **Styling**:
   - CSS-in-JS (styled-components or similar): For component styling.
   - Tailwind CSS (if used): For utility-first styling approach.
