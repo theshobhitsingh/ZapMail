@@ -17,27 +17,28 @@ ZapMail is a modern web application that mimics an email client. It allows users
 ## 🌟Features
 
 ### User Authentication
-- **Login Screen**: Users can log in using their credentials.
-- **User Profiles**: Each user has a personalized profile with their information.
+- **Login Screen** 🔑: Users can log in using their credentials.
+- **User Profiles** 👤: Each user has a personalized profile with their information.
 
 ### Email Management
-- **View Emails**: Users can view emails sorted by categories such as Primary, Promotions, and Social.
-- **Search Functionality**: Use the search bar at the top to quickly find specific emails by subject, sender, or content.
-- **Compose New Email**: Users can easily compose new emails by clicking on the "Compose" button. The email editor allows adding recipients, subject lines, and email body content.
+- **View Emails** 📬: Users can view emails sorted by categories such as Primary, Promotions, and Social.
+- **Search Functionality** 🔍: Use the search bar at the top to quickly find specific emails by subject, sender, or content.
+- **Compose New Email** ✉✒️: Users can easily compose new emails by clicking on the "Compose" button. The email editor allows adding recipients, subject lines, and email body content.
 
 ### Email Actions
-- **Delete Emails**: Users can select emails and delete them permanently.
-- **Mark as Read/Unread**: Users can mark emails as read or unread for better organization.
-- **Reply and Forward**: Users can reply to or forward emails directly from the email view.
+- **Delete Emails** 🗑️: Users can select emails and delete them permanently.
+- **Mark as Read/Unread** 📖: Users can mark emails as read or unread for better organization.
+- **Reply and Forward** 💬: Users can reply to or forward emails directly from the email view.
 
 ### Real-Time Updates
-- **Real-Time Email Updates**: The application updates the inbox in real-time, so users can see new emails without refreshing the page.
+- **Real-Time Email Updates** ⚡: The application updates the inbox in real-time, so users can see new emails without refreshing the page.
 
 ### Dynamic Search
 - **Dynamic Search** 🔍: Instant search functionality to find emails by subject, sender, or content.
 
 ### User Profile Management
 - **User Profile Management** 👤: Users can manage their profiles and log out easily.
+
 
 ## ⚙️Technologies Used
 
