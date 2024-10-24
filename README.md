@@ -20,7 +20,7 @@ ZapMail is a modern web application that mimics an email client. It allows users
 - **Email Management**: Users can view, search, and filter emails across different categories (Primary, Promotions, Social).
 - **Real-Time Updates**: Utilizes Firestore to ensure users receive real-time updates on their emails.
 - **Dynamic Search**: Instant search functionality to find emails by subject, sender, or content.
-- **User Profile Management**: Users can manage their profiles and log out easily.
+- **User Profile Management**: Users can manage their profiles and Log-Out easily.
 - **Dropdown Menu**: User-friendly dropdown for profile options.
 
 ## Technologies Used
