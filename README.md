@@ -23,7 +23,7 @@ ZapMail is a modern web application that mimics an email client. It allows users
 ### Email Management
 - **View Emails** 📬: Users can view emails sorted by categories such as Primary, Promotions, and Social.
 - **Search Functionality** 🔍: Use the search bar at the top to quickly find specific emails by subject, sender, or content.
-- **Compose New Email** ✉✒️: Users can easily compose new emails by clicking on the "Compose" button. The email editor allows adding recipients, subject lines, and email body content.
+- **Compose New Email** ✒️: Users can easily compose new emails by clicking on the "Compose" button. The email editor allows adding recipients, subject lines, and email body content.
 
 ### Email Actions
 - **Delete Emails** 🗑️: Users can select emails and delete them permanently.
