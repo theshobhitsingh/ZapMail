@@ -101,5 +101,5 @@ I welcome contributions! If you'd like to contribute to this project, please for
    git push origin feature/YourFeature
 5. Open a pull request. 🔍
 
-## Coder
+## Programmer
 This project is coded by *Shobhit Singh*
